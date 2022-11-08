@@ -1,2 +1,2 @@
 # helloworld
-Projetos básicos com aplicações iniciais em HTML + CSS
+Projeto básico com aplicações iniciais em HTML + CSS
